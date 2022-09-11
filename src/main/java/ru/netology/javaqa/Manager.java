@@ -25,9 +25,9 @@ public class Manager {
 
     public String[] findLast() {
         int resultSize;
-        if(limit < films.length) {
+        if (limit < films.length) {
             resultSize = limit;
-        }else {
+        } else {
             resultSize = films.length;
         }
 

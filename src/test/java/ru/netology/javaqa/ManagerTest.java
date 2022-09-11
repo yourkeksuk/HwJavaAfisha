@@ -29,7 +29,7 @@ public class ManagerTest {
     }
 
     @Test
-    public void testFindLast () {
+    public void testFindLast() {
         String film1 = "film1";
         String film2 = "film2";
         String film3 = "film3";
